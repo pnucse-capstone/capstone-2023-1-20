@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6ca75f8b18dcc4e83aada13253c133, type: 3}
+  m_Name: DefaultKeysetting
+  m_EditorClassIdentifier: Assembly-CSharp::KeySettingPreset
+  entries:
+  - key: key0
+    default_key: 115
+  - key: key1
+    default_key: 100
+  - key: key2
+    default_key: 102
+  - key: key3
+    default_key: 106
+  - key: key4
+    default_key: 107
+  - key: key5
+    default_key: 108
+  - key: keyRestart
+    default_key: 286
+  - key: keySpeeddown
+    default_key: 282
+  - key: keySpeedup
+    default_key: 283
+  - key: keyCoverup
+    default_key: 291
+  - key: keyCoverdown
+    default_key: 290
+  - key: key6
+    default_key: 97
+  - key: key7
+    default_key: 59
+  - key: keyJudgeUp
+    default_key: 285
+  - key: keyJudgeDown
+    default_key: 284
+  - key: keyJudgeUIUp
+    default_key: 288
+  - key: keyJudgeUIDown
+    default_key: 287
+  - key: keySkipMinus
+    default_key: 280
+  - key: keySkipPlus
+    default_key: 281

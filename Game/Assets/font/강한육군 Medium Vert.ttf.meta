@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5c61b60ae16573d43a1e37bdfbe5cb34
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ROKA
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 074c50458eaa34848921b40633a03995, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

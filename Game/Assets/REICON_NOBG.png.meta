@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 697c394080a06c540a7d55e913f6d1d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3941675813272963542
+    second: REICON_NOBG_0
+  - first:
+      213: 8357780007687369428
+    second: REICON_NOBG_1
+  - first:
+      213: 5291575739393991130
+    second: REICON_NOBG_2
+  - first:
+      213: -3290949317946033127
+    second: REICON_NOBG_3
+  - first:
+      213: -7746173494697817414
+    second: REICON_NOBG_4
+  - first:
+      213: 677657025369854206
+    second: REICON_NOBG_5
+  - first:
+      213: -1356660038225771769
+    second: REICON_NOBG_6
+  - first:
+      213: -2811563895993223692
+    second: REICON_NOBG_7
+  - first:
+      213: -9044034148950687225
+    second: REICON_NOBG_8
+  - first:
+      213: 8711023906196581398
+    second: REICON_NOBG_9
+  - first:
+      213: 2767859671587381076
+    second: REICON_NOBG_10
+  - first:
+      213: 382888884368585672
+    second: REICON_NOBG_11
+  - first:
+      213: -606762304009255377
+    second: REICON_NOBG_12
+  - first:
+      213: -7616638246878330166
+    second: REICON_NOBG_13
+  - first:
+      213: -6309987060561406821
+    second: REICON_NOBG_14
+  - first:
+      213: 8630848143365745367
+    second: REICON_NOBG_15
+  - first:
+      213: 435142350161171205
+    second: REICON_NOBG_16
+  - first:
+      213: 3783697475592362572
+    second: REICON_NOBG_17
+  - first:
+      213: 3099232020838197449
+    second: REICON_NOBG_18
+  - first:
+      213: 4683149113131206995
+    second: REICON_NOBG_19
+  - first:
+      213: 3508496380575041286
+    second: REICON_NOBG_20
+  - first:
+      213: -7078925626135043436
+    second: REICON_NOBG_21
+  - first:
+      213: 7842643618286416916
+    second: REICON_NOBG_22
+  - first:
+      213: 3473812073557272590
+    second: REICON_NOBG_23
+  - first:
+      213: -287146938727978210
+    second: REICON_NOBG_24
+  - first:
+      213: 3442525968677027488
+    second: REICON_NOBG_25
+  - first:
+      213: 5580559168567799363
+    second: REICON_NOBG_26
+  - first:
+      213: -692325042477787820
+    second: REICON_NOBG_27
+  - first:
+      213: -170602558173748961
+    second: REICON_NOBG_28
+  - first:
+      213: -9003291654041322738
+    second: REICON_NOBG_29
+  - first:
+      213: 4567229481137383658
+    second: REICON_NOBG_30
+  - first:
+      213: -1462657056230660549
+    second: REICON_NOBG_31
+  - first:
+      213: 4927311328398197817
+    second: REICON_NOBG_32
+  - first:
+      213: 8205073438361585063
+    second: REICON_NOBG_33
+  - first:
+      213: 2702939046845181728
+    second: REICON_NOBG_34
+  - first:
+      213: 7380447369014550826
+    second: REICON_NOBG_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: REICON_NOBG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26bd125bba5c49c0800000000000000
+      internalID: -3941675813272963542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REICON_NOBG_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23115b2acccf370800000000000000
+      internalID: 8357780007687369428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REICON_NOBG_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad167a859147f6940800000000000000
+      internalID: 5291575739393991130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REICON_NOBG_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c330218033452d0800000000000000
+      internalID: -3290949317946033127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REICON_NOBG_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba8dff5f30108490800000000000000
+      internalID: -7746173494697817414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      REICON_NOBG_2: 5291575739393991130
+      REICON_NOBG_4: -7746173494697817414
+      REICON_NOBG_3: -3290949317946033127
+      REICON_NOBG_0: -3941675813272963542
+      REICON_NOBG_1: 8357780007687369428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

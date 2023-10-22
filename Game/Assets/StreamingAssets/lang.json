@@ -1,0 +1,1496 @@
+{
+  "dialog": [
+    [
+      "id",
+      "english",
+      "koreana",
+      "emotion",
+      "japanese",
+      "schinese",
+      "tchinese",
+      null
+    ],
+    [
+      "dialog1",
+      "Thank you for coming. I get bored when I'm alone.",
+      "찾아주셔서 고마워요. \n혼자 있다보면 좀 심심해요.",
+      "smile",
+      "来てくれてありがとうございます。\n一人なのは退屈だったので。",
+      "谢谢你的来访，我一个人会感到无聊。",
+      "謝謝你的來訪，我一個人會感到無聊。",
+      null
+    ],
+    [
+      "dialog2",
+      "There are times when I feel like I'm at my limit,\nI still enjoy listening to my favorite songs.",
+      "실력에 벽을 느낄때도 많지만, \n그래도 좋아하는 노래를 듣는건 즐거워요.",
+      "idle",
+      "実力に限界を感じる時もありますが、\nそれでも好きな曲を聞けるのは楽しいです。",
+      "很多时候我觉得自己的技术有障碍，\n 但我仍然喜欢听我最喜欢的歌曲。",
+      "很多時候我覺得自己的技術有障礙，但我仍然喜歡聽我最喜歡的歌曲。",
+      null
+    ],
+    [
+      "dialog3",
+      "My favorite song? \nIt's hard to choose...",
+      "제가 가장 좋아하는 곡이요? \n고르기 어려운걸요...",
+      "smile",
+      "私が一番好きな曲ですか？\n選び難いですね、、、",
+      "我最喜欢的歌曲？\n 很难选择...",
+      "我最喜歡的歌曲？\n 很難選擇...",
+      null
+    ],
+    [
+      "dialog4",
+      "I feel sad on a rainy day.",
+      "비가 내리는 날은 어째선지 마음이 서글퍼져요.",
+      "sad",
+      "雨が降る日は何故か悲しくなりがちです。",
+      "我会在雨天感到悲伤。",
+      "我會在雨天感到悲傷。",
+      null
+    ],
+    [
+      "dialog5",
+      "There are days when the record comes out well. \nBut I couldn't do it the next day...",
+      "가끔 이상하게 기록이 잘 나오는 날이 있어요. \n근데 다음날 하면 안되더라구요... ",
+      "sad",
+      "たまに記録更新が捗る日があったりしますが、\n次の日になると出来ないのが不思議です、、、",
+      "有几天记录得很好。\n 但是第二天我就做不到了...",
+      "有幾天記錄得很好。\n 但是第二天我就做不到了...",
+      null
+    ],
+    [
+      "dialog6",
+      "but strangely, there are times when it gets stuck in the same place. \nWhy is that?",
+      "하다보면 이상하게 같은 곳에서 막힐때가 있더라구요. \n왜 그런걸까요?",
+      "idle",
+      "たまに同じ所で詰まる時があったりします、、、\nなんででしょう？",
+      "奇怪的是，有时它会卡在同一处。\n 为什么？",
+      "奇怪的是，有時他會卡在同一處。為什麼?",
+      null
+    ],
+    [
+      "dialog7",
+      "I think there are many genres of music. House, rock, dnb... \nThere are so many that I don't know which one it's talking about.",
+      "음악은 장르가 참 많은거 같아요. \n하우스나 락이나 dnb나... \n너무 많아서 어떤걸 말하는건진 잘 모르겠어요. ",
+      "idle",
+      "音楽はジャンルが本当に多いです。ハウス、ロック、dnbなど、、、\n多すぎて何の事かわかりずらいです。",
+      "我认为音乐有很多种类型。 豪斯、摇滚、DNB……\n 太多了，我不知道是指哪一个",
+      "我認為音樂有很多種類型。 豪斯、搖滾、DNB……\n 太多了，我不知道是指哪一個",
+      null
+    ],
+    [
+      "dialog8",
+      "When something doesn't work, \nit's often solved by turning it off and on. \nIf that doesn't work, I'll call the developer... \nBut there are many things that developers can't fix...",
+      "뭔가 잘 안돌아갈땐 껐다 키면 해결되는 경우가 많더라구요. \n그걸로도 안되면 개발자님을 불러요. \n근데 개발자님도 못고치는 일이 많더라구요…",
+      "idle",
+      "何か問題があった時は再起動すれば解決する事があったりします。\nそれでも解決が出来なければ開発者に聞いてみましょう。\nけれど開発者も解決出来ない事がありがちなんです。",
+      "当某些物品不工作时，\n 通常通过重启解决。\n 如果还是不行，我会打电话给开发者...\n 但是有很多事情是开发者无法解决的...",
+      "當某些物品不工作時，\n 通常通過重啟解決。\n 如果還是不行，我會打電話給開發者...\n 但是有很多事情是開發者無法解決的...",
+      null
+    ],
+    [
+      "dialog9",
+      "I'm afraid of butterflies. \nPeople say it's beautiful, but if you look closely, \nit looks like a moth. I don't like bugs…",
+      "저는 나비가 무서워요. \n사람들은 예쁘다고 하지만,\n가까이서 보면 나방이랑 닮았거든요. \n전 벌레가 싫어요... ",
+      "idle",
+      "私は蝶が怖いです、、、\n人々は奇麗だと言いますが、\n近くで見ると蛾に見えるので虫嫌いな私には分かりません、、、",
+      "我怕蝴蝶。\n 人们都说它很美，但如果你仔细观察，\n 它看起来像一只飞蛾。 我不喜欢虫子...",
+      "我怕蝴蝶。\n 人們都說它很美，但如果你仔細觀察，\n 它看起來像一只飛蛾。 我不喜歡蟲子...",
+      null
+    ],
+    [
+      "dialog10",
+      "If your work is hard, \nI think you can take a rest. \nMaybe…",
+      "힘들면 쉬어가도 돼요.\n아마도... ",
+      "idle",
+      "疲れた時は休むのも良いと思いますよ。\n多分、、、",
+      "如果你的工作很辛苦，\n 我想你需要休息一下了。\n 也许吧…",
+      "如果你的工作很辛苦，\n 我想你需要休息一下了。\n 也許吧…",
+      null
+    ],
+    [
+      "dialog11",
+      "What's your favorite food?\nMy favorite food is caramel.\nI put it in my pocket and take it out when I think of it.",
+      "좋아하는 음식이 있으신가요? \n저는 카라멜이에요. \n주머니에 넣어뒀다 생각날때 하나씩 꺼내 먹어요. ",
+      "smile",
+      "あなたの好きな食べ物は何ですか？私はカラメルです。\n常にポケットに入れて持ち歩いています。",
+      "你最爱吃什么？\n 我最喜欢的是焦糖。\n 我把它放在口袋里，想吃就拿出来。",
+      "你最愛吃什麼？\n 我最喜歡的是焦糖。\n 我把它放在口袋裏，想吃就拿出來。",
+      null
+    ],
+    [
+      "dialog12",
+      "How about wearing a ribbon instead of a hairpin? \nWill it suit me?",
+      "머리핀 대신 리본을 달면 어떨거 같아요? \n어울릴까요?",
+      "smile",
+      "ヘアピンの代わりにリボンを付けたらどうでしょうか？\n似合うと思いますか？",
+      "戴丝带而不是卡发夹如何？\n 你认为它适合我吗？",
+      "戴絲帶而不是卡發夾如何？\n 你認為它適合我嗎？",
+      null
+    ],
+    [
+      "dialog13",
+      "I like sweets. \nI like sweet foods like cookies and strawberries.",
+      "저는 단걸 좋아해요. \n쿠키나 딸기같이 달달한 음식이 좋아요.",
+      "smile",
+      "私は甘い物が好きです。\nクッキーやイチゴのような甘い食べ物が好きです。",
+      "我喜欢甜食。\n 我喜欢甜食，如饼干和草莓。",
+      "我喜歡甜食。\n 我喜歡甜食，如餅幹和草莓。",
+      null
+    ],
+    [
+      "dialog14",
+      "Feel free to let me know \nif you need anything.",
+      "필요한 일이 있으면 \n언제든지 말씀해주세요.",
+      "smile",
+      "何か困ったことがあったらいつでもご相談ください。",
+      "如果你需要什么请随时告诉我",
+      "如果你需要什麽請隨時告訴我",
+      null
+    ],
+    [
+      "dialog15",
+      "There are times when I get misunderstood \nbecause my expression doesn't change much. \nWhat should I do in that case…",
+      "표정변화가 많지 않아서 \n가끔 오해를 살때가 있어요. \n그럴땐 어떻게 해야할까요…",
+      "sad",
+      "表情変化があまり無いのでよく誤解されがちです。\nどうすればいいのでしょう、、、",
+      "因为我的表情变化不大\n  所以我也有被误会的时候。\n  在这种情况下我该怎么做……",
+      "因為我的表情變化不大\n  所以我也有被誤會的時候。\n  在這種情況下我該怎麽做……",
+      null
+    ],
+    [
+      "dialog16",
+      "I'm glad I can talk like this.",
+      "이렇게 이야기 할수 있어서 기뻐요.",
+      "smile",
+      "こう話せて嬉しいです。",
+      "我很高兴我能这样说话。",
+      "我很高興我能這樣說話。",
+      null
+    ],
+    [
+      "dialog17",
+      "There are many special levels in the Extra Pack, \nso I don't have them recorded.",
+      "Extra Pack에는 조금 특별한 채보가 많아서\n따로 기록하지 않고 있어요.",
+      "idle",
+      "Extra Packには変わった譜面が多いので、記録は残されません。",
+      "额外包中有许多特殊关卡，\n 所以我没有把它们记录下来。",
+      "額外包中有許多特殊關卡，\n 所以我沒有把它們記錄下來。",
+      null
+    ],
+    [
+      "dialog18",
+      "A song length of about 2 minutes feels just right.\nFrom 3 minutes onwards, it starts to feel a bit long..",
+      "곡 길이는 2분 정도가 딱 좋은거 같아요. \n3분부터는 좀 길다는 느낌이더라구요….",
+      "sad",
+      "曲の長さは2分が丁度いいです。3分からはちょっと長く感じます、、",
+      "2分钟左右的歌曲长度感觉刚刚好。\n 从3分钟开始，就感觉有点长了。",
+      "2分鐘左右的歌曲長度感覺剛剛好。\n 從3分鐘開始，就感覺有點長了。",
+      null
+    ],
+    [
+      "dialog19",
+      "Do you know what the commonalities \nbetween a sewing machine and a rhythm game are?",
+      "재봉틀과 리듬게임의 공통점이 뭔지 아세요?",
+      "smile",
+      "ミシンと音ゲーの共通点が何か分かりますか？",
+      "你知道缝纫机和音乐游戏的共同点是什么吗？",
+      "你知道縫紉機和音樂遊戲的共同點是什麽嗎？",
+      null
+    ],
+    [
+      "firstmeet",
+      "I'm <color=blue>Charlotte</color>, in charge of organizing records. \nNice to meet you.",
+      "기록 정리를 맡고 있는 <color=blue>샬롯</color>이라고해요. \n만나서 반가워요. ",
+      "smile",
+      "記録整理担当の<color=blue>シャーロット</color>です。\nはじめまして。",
+      "我是<color=blue>Charlotte</color>，负责整理记录。\n 很高兴见到你。",
+      "我是<color=blue>Charlotte</color>，負責整理記錄。\n 很高興見到你。",
+      null
+    ],
+    [
+      "meet1",
+      "Hello, what song will you be playing today?",
+      "안녕하세요, \n오늘은 어떤 곡을 하실건가요?",
+      "idle",
+      "今日はどんな曲をお遊びになさいますか？",
+      "你好！今天你要游玩什么歌曲？",
+      "你好！今天你要遊玩什麽歌曲？",
+      null
+    ],
+    [
+      "comeback",
+      "It's been a while. Will you come more often?",
+      "오랜만이에요. \n좀 더 자주 와주실거죠? ",
+      "smile",
+      "お久しぶりですね。もっと頻繁に来てもらえば嬉しいです。",
+      "有一阵子不见了。 你会经常来吗？",
+      "有一陣子不見了。 你會經常來嗎？",
+      null
+    ],
+    [
+      "newrecord1",
+      "You scored higher than before!",
+      "이전 보다 점수가 높아졌어요! ",
+      "smile",
+      "前回より記録が上がってます！",
+      "你的得分比以前更高了！",
+      "你的得分比以前更高了！",
+      null
+    ],
+    [
+      "meet2",
+      "I'm glad you came. Will you be with us in the future too...?",
+      "오셔서 기뻐요. \n앞으로도 같이 있어 주실거죠...?",
+      "smile",
+      "来てくれて嬉しいです。\nこれからも一緒に居てもらえますか、、、？",
+      "我很高兴你来了。 以后我们也会在一起吗吗……？",
+      "我很高興你來了。 以後我們也會在一起嗎嗎……？",
+      null
+    ],
+    [
+      "meet3",
+      "Welcome, player. How can I assist you?",
+      "어서오세요 플레이어님, \n무엇을 도와드릴까요?",
+      "smile",
+      "ようこそプレイヤー様。\nご用件は何でしょう？",
+      "欢迎，玩家。 我怎样才能帮助你？",
+      "歡迎，玩家。 我怎樣才能幫助你？",
+      null
+    ],
+    [
+      "else",
+      "Is there anything else I can help you with?",
+      "더 도와드릴 일이 있을까요?",
+      "smile",
+      "他に手伝う事はありますか？",
+      "我还有什么可以帮你的吗？",
+      "我還有什麽可以幫你的嗎？",
+      null
+    ],
+    [
+      "wait",
+      "… Why don't you play the game?",
+      "저기… 오늘은 게임 안하시나요?",
+      "sad",
+      "あの、、、今日はゲームなさらないんですか？",
+      "……你为什么不玩游戏？",
+      "……你為什麽不玩遊戲？",
+      null
+    ],
+    [
+      "friday",
+      "Today is Friday! \nYou did a great job this week!",
+      "오늘은 금요일이에요! \n이번주도 수고하셨어요!",
+      "smile",
+      "今日は金曜日です！\n今週もお疲れさまです！",
+      "今天是星期五！\n 这周你做得很好！",
+      "今天是星期五！\n 這周你做得很好！",
+      null
+    ],
+    [
+      "weekday",
+      "Why do people dislike playing games on weekday mornings?",
+      "사람들은 평일 오전에 게임하는걸 왜 싫어하는걸까요? ",
+      "idle",
+      "人々は何故平日の午前にゲームをしないんでしょう？",
+      "为什么人们不喜欢在工作日早晨玩游戏？",
+      "為什麽人們不喜歡在工作日早晨玩遊戲？",
+      null
+    ],
+    [
+      "notplay",
+      "You haven't played it yet.",
+      "아직 플레이하지 않으셨어요.",
+      "idle",
+      "まだプレイされていません。",
+      "你还没玩过。",
+      "你還沒玩過。",
+      null
+    ],
+    [
+      "meet4",
+      "I'll summerize your records!",
+      "기록을 요약해드릴게요!",
+      "smile",
+      "記録整理中です！",
+      "我会给你的记录做小结！",
+      "我會給你的記錄做小結！",
+      null
+    ],
+    [
+      "weekend",
+      "I love being able to relax all day during the weekend.",
+      "주말에는 하루종일 느긋하게 지낼 수 있어서 좋아요.",
+      "smile",
+      "週末は一日中のんびり出来るのが好きです。",
+      "我喜欢周末可以放松一整天",
+      "我喜歡周末可以放松一整天",
+      null
+    ],
+    [
+      "monday",
+      "I hate Monday….",
+      "월요일 싫어요….",
+      "sad",
+      "月曜日は嫌いです、、、",
+      "我讨厌星期一…",
+      "我討厭星期一…",
+      null
+    ],
+    [
+      "newrecord2",
+      "Congratulations for your new record! ",
+      "기록 갱신 축하해요!",
+      "smile",
+      "記録更新おめでとうございます！",
+      "恭喜你创造新纪录！",
+      "恭喜你創造新紀錄！",
+      null
+    ],
+    [
+      "tutorial1",
+      "By pressing S,D,F,J,K,L 6 keys,\nYou can give input to each line.",
+      "S,D,F,J,K,L 6개 키로 \n각 라인에 입력을 줄 수 있어요.",
+      "idle",
+      "S,D,F,J,K,L 六つのキーで各ラインに入力ができます。",
+      "按S、D、F、J、K、L 6个键，",
+      "按S、D、F、J、K、L 6個鍵，",
+      null
+    ],
+    [
+      "tutorial2",
+      "Input the <color=blue>one line</color> which the note covers on.\nFor example, for a note like this, you can press either S, D, or F.",
+      "노트는 걸쳐있는 라인중에 \n<color=blue>하나의 라인</color>을 입력하시면 처리가 돼요.\n예를들어, 이런 노트는 S, D, F 중 하나를 누르면 돼요.",
+      "idle",
+      "横に長いノーツはノーツが乗っているラインの <color=blue>どれか一つ</color>を入力すれば処理判定になります。\n例えば、こういうノーツは S,D,F の中でどれか一つを押せば通過できます。",
+      "输入音符重合的<color=blue>一条判定线</color>。\n 例如，对于这样的音符，您可以按 S、D 或 F。",
+      "輸入音符重合的<color=blue>一條判定線</color>。\n 例如，對於這樣的音符，您可以按 S、D 或 F。",
+      null
+    ],
+    [
+      "tutorial3",
+      "Long note should be pressed as long as it'",
+      "롱 노트는 길이만큼 누른 상태를 \n유지하면 처리가 되는 노트에요.",
+      "idle",
+      "ロングノーツは長さだけ押したままにするノーツです。",
+      "长音符只要按住就可以了",
+      "長音符只要按住就可以了",
+      null
+    ],
+    [
+      "tutorial4",
+      "If the notes overlap,\nYou can input several lines according to the overlapping notes.\nFor example, these notes can be processed in two ways: S+D and D+F.",
+      "노트가 겹쳐있는 경우엔, \n겹쳐있는 노트에 맞게 여러 개를 입력하면 돼요.\n예를 들어, 이런 노트는 S+D, D+F 두가지 방법으로 처리가 가능해요.",
+      "idle",
+      "ノーツが重なっている場合は、\n重なったノーツに合わせて複数を入力です。\n例えば、こういうノーツは S+D, D+F の二つの方法で通過できます。",
+      "如果音符重叠，\n 您可以根据重叠的音符输入几条判定线。\n 例如，这些音符可以用两种方式处理：S+D 和 D+F。",
+      "如果音符重疊，\n 您可以根據重疊的音符輸入幾條判定線。\n 例如，這些音符可以用兩種方式處理：S+D 和 D+F。",
+      null
+    ],
+    [
+      "tutorial5",
+      "This is \"Music Select Screen\".",
+      "선곡 화면은 이렇게 생겼어요.",
+      "smile",
+      "選曲画面はこういう感じです。",
+      "这是“音乐选择页面”",
+      "這是“音樂選擇頁面”",
+      null
+    ],
+    [
+      "tutorial6",
+      "You can change the difficulty here.",
+      "난이도는 이쪽에서 변경하실 수 있어요.",
+      "idle",
+      "ここで難易度を選べます。",
+      "您可以在此处更改难度。",
+      "您可以在此處更改難度。",
+      null
+    ],
+    [
+      "tutorial7",
+      "Choose a song from here,\nAnd you can start by pressing the middle button.",
+      "여기서 곡을 고르고, \n가운데 버튼을 눌러 시작하실수 있어요.",
+      "idle",
+      "ここで選曲をし、\n真ん中のボタンでスタートできます。",
+      "在这里选择一首音乐，\n 您可以按选择按钮开始。",
+      "在這裏選擇一首音樂，\n 您可以按選擇按鈕開始。",
+      null
+    ],
+    [
+      "tutorial0",
+      "Do you want to hear the game description again?\nI'll explain it to you!",
+      "게임 설명을 다시 듣고 싶으신가요?\n설명해드릴게요!",
+      "smile",
+      "ゲーム説明をもう一度聞きたいですか？ \n説明します！",
+      "你想再听一遍游戏说明吗？\n 我会说明给你听的！",
+      "你想再聽一遍遊戲說明嗎？\n 我會說明給你聽的！",
+      null
+    ],
+    [
+      "tutorial10",
+      "That's it for my explanation!\nThank you for listening!",
+      "제 설명은 여기까지에요! \n들어주셔서 고마워요!",
+      "smile",
+      "私の説明はここまでです！\n聞いてくれてありがとうございます！",
+      "这就是我的说明！\n 谢谢你的聆听",
+      "這就是我的說明！\n 謝謝你的聆聽",
+      null
+    ],
+    [
+      "sleep",
+      "…..zZZ",
+      "…..zZZ",
+      "sleep",
+      "…..zZZ",
+      "…..zZZ",
+      "…..zZZ",
+      null
+    ],
+    [
+      "wake",
+      "….. Oh, welcome...",
+      "….. 음냐, 어서오세요….",
+      "wake",
+      "…..ああ、ようこそ...",
+      "….. 额, 欢迎...",
+      "…額，歡迎…",
+      null
+    ],
+    [
+      "tutorial8",
+      "You can adjust the game settings such as playback speed or modes here.",
+      "여기서는 배속이나 모드 같은 게임 설정들을 조작할 수 있어요.",
+      "idle",
+      "ここでは倍速やModなどのゲーム設定を操作できます。",
+      "在这里您可以修改游戏设置，例如速度和模式。",
+      "在这里您可以修改游戏设置，例如速度和模式。",
+      null
+    ],
+    [
+      "tutorial9",
+      "I'll be over here! \nIf you want to check your overall achievements, please come this way!",
+      "저는 평소에는 이 쪽에 있어요. \n전체 성과를 확인하고 싶으시면 여기로 와주세요!",
+      "smile",
+      "私はここに居るので\n全体の成果を確認したければここに来てください!",
+      "我就到这里吧！\n 如果你想查看自己的总体成绩，请这边来！",
+      "我就到這裏吧！\n 如果你想查看自己的總體成績，請這邊來！",
+      null
+    ],
+    [
+      "dialog20",
+      "I pray that nothing but a path of flowers lies ahead of you, Player.",
+      "플레이어님의 앞에 꽃길만이 있기를 기도할게요.",
+      "smile",
+      "プレイヤー様の幸運を祈ります。",
+      "我会祈祷你一路生花。",
+      "我会祈祷你一路生花。",
+      null
+    ],
+    [
+      "dialog21",
+      "As you continue to listen to music,\nyou begin to hear the subtle sounds of instruments that you didn't notice at first.\nIt's like rediscovering familiar songs in a whole new way.",
+      "음악을 계속 듣다보면\n처음엔 안들리던 작은 악기 소리들도 들리기 시작해요.\n평소의 듣던 노래를 재발견하는 느낌이라고 할까요?",
+      "smile",
+      "音楽を聴き続けていると\n最初は聞こえなかった小さい楽器音などが聞こえてきたりします。\n曲の再発見と言ったところでしょうか？",
+      "当你继续听音乐时，\n 你将会听到你从未注意到的乐器微妙声音。\n 这就像以全新的方式重新发现熟悉的歌曲。",
+      "當你繼續聽音樂時，\n 你將會聽到你從未註意到的樂器微妙聲音。\n 這就像以全新的方式重新發現熟悉的歌曲。",
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "처음 오신 분들께는 플레이 방법을 설명해드리고 있어요. ",
+      "idle",
+      "初めての方々にはプレイ方法を説明します。",
+      "对于初次游玩者，我们会说明如何玩。",
+      "對於初次遊玩者，我們會說明如何玩。",
+      null
+    ]
+  ],
+  "uitext": [
+    [
+      "lang",
+      "english",
+      "koreana",
+      "japanese",
+      "schinese",
+      "tchinese"
+    ],
+    [
+      "sync",
+      "Calibration",
+      "싱크",
+      "微調整",
+      "校准",
+      "校準"
+    ],
+    [
+      "volume",
+      "BGM",
+      "BGM",
+      "BGM",
+      "BGM",
+      "BGM"
+    ],
+    [
+      "vsync",
+      "Vsync",
+      "수직 동기화",
+      "垂直同期化",
+      "垂直同步",
+      "垂直同步"
+    ],
+    [
+      "fps",
+      "Frame rate",
+      "프레임 레이트",
+      "フレームレート",
+      "帧数",
+      "幀數"
+    ],
+    [
+      "resolution",
+      "Resolution",
+      "해상도",
+      "解像度",
+      "分辨率",
+      "分辨率"
+    ],
+    [
+      "fullscreen",
+      "Fullscreen",
+      "전체 화면",
+      "全体画面",
+      "全屏",
+      "全屏"
+    ],
+    [
+      "hitsound",
+      "Hit sound Volume",
+      "히트 사운드 볼륨",
+      "効果音",
+      "打击音效音量",
+      "打擊音效音量"
+    ],
+    [
+      "ikeys",
+      "Input keys",
+      "입력",
+      "入力",
+      "输入按键",
+      "輸入按鍵"
+    ],
+    [
+      "fkeys",
+      "Function keys",
+      "특수 키",
+      "特殊キー",
+      "快捷键",
+      "快捷按鍵"
+    ],
+    [
+      "reflex",
+      "NVIDIA Reflex Low Latency Mode",
+      "NVIDIA Reflex 저지연 모드",
+      "NVIDIA Reflex 低遅延モード",
+      "NVIDIA Reflex低延迟模式",
+      "NVIDIA Reflex低延遲模式"
+    ],
+    [
+      "async",
+      "Input Thread Seperation Mode",
+      "입력 스레드 분리",
+      "入力スレッド分離",
+      "输入线程分离模式",
+      "輸入線程分離模式"
+    ],
+    [
+      "bg",
+      "Background",
+      "배경 표시",
+      "背景表示",
+      "背景",
+      "背景"
+    ],
+    [
+      "dsp",
+      "DSP Buffer size",
+      "DSP 버퍼 크기",
+      "DSP バッファーサイズ",
+      "DSP 缓冲区大小",
+      "DSP緩衝區大小"
+    ],
+    [
+      "langset",
+      "Language",
+      "언어",
+      "言語",
+      "语言",
+      "語言"
+    ],
+    [
+      "note_time",
+      "Note Time",
+      "노트 시각",
+      "ノーツ視覚",
+      "音符时间",
+      "音符時間"
+    ],
+    [
+      "note_length",
+      "Note Length",
+      "노트 길이",
+      "ノーツの長さ",
+      "音符长度",
+      "音符長度"
+    ],
+    [
+      "note_width",
+      "Note Width",
+      "노트 폭",
+      "ノーツの幅",
+      "音符宽度",
+      "音符寬度"
+    ],
+    [
+      "note_speed",
+      "Note Speed",
+      "노트 속도",
+      "ノーツ速度",
+      "音符速度",
+      "音符速度"
+    ],
+    [
+      "note_pos",
+      "Note Position",
+      "노트 위치",
+      "ノーツ位置",
+      "音符位置",
+      "音符位置"
+    ],
+    [
+      "note_scale",
+      "Note Scale",
+      "노트 크기",
+      "ノーツの大きさ",
+      "音符大小",
+      "音符大小"
+    ],
+    [
+      "note_keysound",
+      "Key sound",
+      "키음 설정",
+      "キーサウンド",
+      "打击音效",
+      "打擊音效"
+    ],
+    [
+      "note_color",
+      "Note Color",
+      "노트 색상",
+      "ノーツの色",
+      "音符颜色",
+      "音符顏色"
+    ],
+    [
+      "note_linecolor",
+      "Long Note Color",
+      "롱노트 색상",
+      "ロングノーツの色",
+      "长音符颜色",
+      "長音符顏色"
+    ],
+    [
+      "note_invert",
+      "Color Invert",
+      "색 반전",
+      "色反転",
+      "反色",
+      "反色"
+    ],
+    [
+      "note_longinvert",
+      "Long Note Color Invert",
+      "롱노트 색 반전",
+      "ロングノーツ色反転",
+      "长音符反色",
+      "長音符反色"
+    ],
+    [
+      "editor_startbpm",
+      "Initial BPM",
+      "시작 BPM",
+      "スタートBPM",
+      "初始BPM",
+      "初始BPM"
+    ],
+    [
+      "editor_composer",
+      "Composer",
+      "작곡가",
+      "作曲家",
+      "作曲家",
+      "作曲家"
+    ],
+    [
+      "editor_music",
+      "Music File",
+      "사운드 교체하기",
+      "音楽ファイル",
+      "音乐文件",
+      "音樂文件"
+    ],
+    [
+      "editor_title",
+      "Title",
+      "곡 이름",
+      "曲名",
+      "曲名",
+      "曲名"
+    ],
+    [
+      "editor_dif",
+      "Difficulty(1~10)",
+      "난이도(1~10)",
+      "難易度 (1~10)",
+      "难度（1~10）",
+      "難度（1~10）"
+    ],
+    [
+      "editor_leveler",
+      "Level Designer",
+      "레벨 제작자",
+      "レベル創作者",
+      "关卡制作者",
+      "關卡製作者"
+    ],
+    [
+      "editor_desc",
+      "Level Description",
+      "레벨 설명",
+      "レベル説明",
+      "等级说明",
+      "等級說明"
+    ],
+    [
+      "editor_offset",
+      "Music Offset",
+      "음악 오프셋",
+      "曲の微調整",
+      "音乐偏移",
+      "音樂偏移"
+    ],
+    [
+      "editor_life",
+      "Life Penalty",
+      "라이프 계수",
+      "ライフ",
+      "生命值判定",
+      "生命值判定"
+    ],
+    [
+      "editor_thumb",
+      "Thumbnail",
+      "썸네일",
+      "サムネイル",
+      "缩略图",
+      "縮略圖"
+    ],
+    [
+      "editor_midi",
+      "MIDI Parse",
+      "MIDI 파싱",
+      "MIDI 解析",
+      "MIDI解析",
+      "MIDI解析"
+    ],
+    [
+      "editor_bga",
+      "BGA",
+      "BGA",
+      "BGA",
+      "BGA",
+      "BGA"
+    ],
+    [
+      "editor_url",
+      "Composer Webpage",
+      "작곡가 웹페이지",
+      "作曲家WEB",
+      "作曲家链接",
+      "作曲家鏈接"
+    ],
+    [
+      "editor_class",
+      "Difficulty class",
+      "난이도 분류",
+      "難易度分類",
+      "难度等级",
+      "難度等級"
+    ],
+    [
+      "editor_length",
+      "Music Length offset",
+      "음악 길이 조정",
+      "曲の長さ調整",
+      "音乐长度偏移",
+      "音乐长度偏移"
+    ],
+    [
+      "event_dpt",
+      "Distance per unit time",
+      "시간당 거리",
+      "時間別距離",
+      "单位时间距离",
+      "單位時間長度"
+    ],
+    [
+      "event_bgcolor",
+      "Background Color",
+      "배경 색상",
+      "背景の色",
+      "背景颜色",
+      "背景顏色"
+    ],
+    [
+      "event_speed",
+      "Speed",
+      "변속",
+      "変速",
+      "速度",
+      "速度"
+    ],
+    [
+      "event_tween",
+      "Motion tween",
+      "트윈 모션",
+      "モーションツイーン",
+      "补间动画",
+      "補間動畫"
+    ],
+    [
+      "event_bpm",
+      "Editor BPM",
+      "에디터 BPM",
+      "エディターBPM",
+      "编辑器BPM",
+      "編輯器BPM"
+    ],
+    [
+      "event_linewidth",
+      "Line Width",
+      "라인 너비",
+      "ラインの長さ",
+      "判定线宽度",
+      "判定線 寬度"
+    ],
+    [
+      "event_linecolor",
+      "Line Color",
+      "라인 색상",
+      "ラインの色",
+      "判定线颜色",
+      "判定線顏色"
+    ],
+    [
+      "event_skip",
+      "Skip",
+      "스킵",
+      "スキップ",
+      "跳过",
+      "跳過"
+    ],
+    [
+      "event_notewidth",
+      "Note width",
+      "노트 너비",
+      "ノーツの幅",
+      "音符宽度",
+      "音符寬度"
+    ],
+    [
+      "event_noteposx",
+      "Note position X",
+      "노트 위치 x",
+      "ノーツのx位置",
+      "音符X轴位置",
+      "音符X軸位置"
+    ],
+    [
+      "event_longcolor",
+      "Long Note Color",
+      "롱노트 색상",
+      "ロングノーツの色",
+      "长音符颜色",
+      "長音符顏色"
+    ],
+    [
+      "event_notecolor",
+      "Note Color",
+      "노트 색상",
+      "ノーツの色",
+      "音符颜色",
+      "音符顏色"
+    ],
+    [
+      "event_noteheight",
+      "Note Height",
+      "노트 높이",
+      "ノーツの高さ",
+      "音符高度",
+      "音符高度"
+    ],
+    [
+      "event_notepath",
+      "Note Path",
+      "노트 경로",
+      "ノーツ経路",
+      "音符路径",
+      "音符路徑"
+    ],
+    [
+      "event_noteimage",
+      "Note Image",
+      "노트 이미지",
+      "ノーツ画像",
+      "音符图片",
+      "音符圖片"
+    ],
+    [
+      "event_noteinvert",
+      "Color Invert",
+      "색 반전",
+      "色反転",
+      "反色",
+      "反色"
+    ],
+    [
+      "event_longnoteinvert",
+      "Long Note Color Invert",
+      "롱노트 색 반전",
+      "ロングノーツ色反転",
+      "长音符反色",
+      "長音符顏色"
+    ],
+    [
+      "event_lineposx",
+      "Line Position Offset X",
+      "라인 위치 오프셋 X",
+      "ラインのx位置微調整",
+      "判定线X轴位置",
+      "判定線X軸位置"
+    ],
+    [
+      "event_lineposy",
+      "Line Position Offset Y",
+      "라인 위치 오프셋 Y",
+      "ラインのy位置微調整",
+      "判定线Y轴位置",
+      "判定線Y軸位置"
+    ],
+    [
+      "event_linepath",
+      "Line Path",
+      "라인 경로",
+      "ライン経路",
+      "判定线路径",
+      "判定線路徑"
+    ],
+    [
+      "event_rotation",
+      "Rotation",
+      "각도",
+      "角度",
+      "旋转",
+      "旋轉"
+    ],
+    [
+      "event_linebeamwidth",
+      "Line Beam Width",
+      "라인 빔 너비",
+      "ラインビームの幅",
+      "判定范围宽度",
+      "判定範圍寬度"
+    ],
+    [
+      "event_linebeamlength",
+      "Line Beam Length",
+      "라인 빔 길이",
+      "ラインビームの長さ",
+      "判定范围长度",
+      "判定範圍長度"
+    ],
+    [
+      "event_linecenterwidth",
+      "Line Center Width",
+      "라인 중심 너비",
+      "ライン中心の幅",
+      "判定中心宽度",
+      "判定中心寬度"
+    ],
+    [
+      "event_linecenterheight",
+      "Line Center Height",
+      "라인 중심 높이",
+      "ライン中心の高さ",
+      "判定中心宽度",
+      "判定中心高度"
+    ],
+    [
+      "event_camrotation",
+      "Camera Rotation",
+      "카메라 각도",
+      "カメラ角度",
+      "视角旋转",
+      "視角旋轉"
+    ],
+    [
+      "event_camzoom",
+      "Camera Zoom",
+      "카메라 확대",
+      "カメラ拡大",
+      "视角缩放",
+      "視角縮放"
+    ],
+    [
+      "event_campos",
+      "Camera Position",
+      "카메라 위치",
+      "カメラ位置",
+      "视角位置",
+      "視角位置"
+    ],
+    [
+      "tooltip_mode",
+      "Modes can differ significantly from normal gameplay, \nso please enjoy them just for fun.",
+      "모드는 일반적인 플레이를 위한 모드가 아닙니다. \n재미로만 플레이해주세요.",
+      "Modは一般的なプレイの邪魔をする可能性があります。\n遊び感覚で使用して下さい。",
+      "Mod可能与正常游戏大不相同，所以尽情享受它们吧。",
+      "Mod可能与正常遊戲大不相同，所以盡情享受它們吧"
+    ],
+    [
+      "tooltip_inputthread",
+      "If this option is turned on, the game may slow down instead of judging the input more precisely.\nTurn off this option when keystrokes are not working.",
+      "이 옵션을 켜는 경우, 좀 더 정밀하게 입력을 판정하는 대신 게임이 느려질 수 있습니다.\n키 입력이 작동하지 않을 때는 이 옵션을 해제하세요.",
+      "このオプションをonにする場合、\nもっと精密に入力を判定する代わりにゲームが重くなる可能性があります。\nキー入力が作動しない場合はこのオプションをoffにして下さい。",
+      "如果打开此选项，游戏可能会更慢判定输入而不准确。当打击判定无效时关闭此选项。",
+      "如果打開此選項，遊戲可能會更慢判定而不準確。當打擊判定無效時關閉此選項。"
+    ],
+    [
+      "tooltip_dsp",
+      "The change will be applied after rebooting the game.",
+      "변경사항은 게임 재부팅 후 적용됩니다.",
+      "変更はゲーム再起動後に適用されます。",
+      "重启游戏后将应用更改",
+      "重啟遊戲后應用更改"
+    ],
+    [
+      "el",
+      "Show Early / Late ",
+      "Early / Late 표시",
+      "Early / Late 表示",
+      "显示 Early/Late",
+      "顯示 Early/Late"
+    ],
+    [
+      "note_default",
+      "Use default Color",
+      "기본 색 사용",
+      "デフォルト色 使用",
+      "使用默认颜色",
+      "使用默認顏色"
+    ],
+    [
+      "ugc_delete",
+      "Deleting...",
+      "삭제중...",
+      "削除中...",
+      "删除中…",
+      "刪除中…"
+    ],
+    [
+      "ugc_complete",
+      "Complete!",
+      "완료!",
+      "完了!",
+      "完成!",
+      "完成!"
+    ],
+    [
+      "ugc_idle",
+      "*You can upload the level that you are editing now. ",
+      "*현재 열린 pbrff 파일을 기준으로 업로드 됩니다.",
+      "今開いているpbrffファイルをアップロードします。 ",
+      "*您可以上传编辑中的关卡",
+      "*您可以上傳編輯中的關卡"
+    ],
+    [
+      "ugc_error1",
+      "Error: You didn't open the level file on Editor.",
+      "오류: 에디터에 파일이 열려있지 않습니다.",
+      "エラー：エディターにファイルが開かれてません。",
+      "错误：您没有在编辑器上打卡关卡文件",
+      "錯誤：您沒有在編輯器上打開關卡文件"
+    ],
+    [
+      "ugc_error2",
+      "Error: Please save the file before you upload",
+      "오류: 업로드 전에 파일을 저장해 주세요.",
+      "エラー：アップロードする前にセーブしてください。",
+      "错误：上传前请保存文件",
+      "錯誤：上傳前請保存文件"
+    ],
+    [
+      "ugc_error3",
+      "Error: Upload failed",
+      "오류: 업로드에 실패했습니다.",
+      "エラー：アップロード失敗",
+      "错误：上传失败",
+      "錯誤：上傳失敗"
+    ],
+    [
+      "ugc_upload",
+      "Uploading…",
+      "업로드중…",
+      "アップロード中…",
+      "上传中…",
+      "上傳中…"
+    ],
+    [
+      "sounddevice",
+      "Sound Output",
+      "사운드 출력",
+      "サウンド出力",
+      "音频输出",
+      "音頻輸出"
+    ],
+    [
+      "mastervolume",
+      "Master Volume",
+      "마스터 볼륨",
+      "全体音量",
+      "主音量",
+      "主音量"
+    ],
+    [
+      "elrange",
+      "Early / Late Range",
+      "Early / Late 범위",
+      "Early / Late 範囲",
+      "Early/Late 判定范围",
+      "Early/Late 判定範圍"
+    ],
+    [
+      "judgepoint",
+      "Judge position",
+      "판정 지점 조절",
+      "判定位置調整",
+      "判定位置",
+      "判定位置"
+    ],
+    [
+      "judgepointshow",
+      "Show Judge position",
+      "판정 지점 표시",
+      "判定位置表示",
+      "显示判定位置",
+      "顯示判定位置"
+    ],
+    [
+      "judgeui",
+      "Judgement UI position",
+      "판정 UI 위치",
+      "判定UIの位置",
+      "判定显示UI位置",
+      "判定顯示UI位置"
+    ],
+    [
+      "hitsoundtype",
+      "Hit sound Type",
+      "히트 사운드 종류",
+      "効果音の種類",
+      "打击音效类型",
+      "打擊音效類型"
+    ],
+    [
+      "tooltip_lowspeed",
+      "If you play at less than 1x speed, \nyour score will not be recorded.",
+      "1배속 미만으로 플레이하는 경우, \n점수가 기록되지 않습니다.",
+      "1倍速未満のプレイの場合、点数は記録されません。",
+      "如果您的游玩速度低于1x，您的游玩记录将不会记录。",
+      "如果您的遊玩速度低於1x，您的遊玩記錄將不會記錄。"
+    ],
+    [
+      "event_colortone",
+      "Note Color Pallete",
+      "노트 컬러 팔레트",
+      "ノーツカラーパレット",
+      "音符彩色",
+      "音符彩色"
+    ],
+    [
+      "editor_beat",
+      "Time Signature",
+      "박자표",
+      "拍子表",
+      "拍号",
+      "拍號"
+    ],
+    [
+      "workshop_first",
+      "All levels uploaded in the Workshop are user-generated \nand are unrelated to official",
+      "창작마당에 업로드 된 채보들은 유저 제작 채보이며,\n공식 채보와 무관함을 밝힙니다.",
+      "ワークショップにアップロードされている譜面はプレイヤー創作譜面であり、公式譜面とは無関係です。",
+      "创意工坊的关卡是由玩家设计的，与官方无关",
+      "創意工坊的關卡是由玩家設計的，與官方無關"
+    ],
+    [
+      "msg_dlc",
+      "You don't have dlc. \nPlease try after purchase.",
+      "DLC 구매 후 플레이 하실 수 있습니다.",
+      "DLCがありません。購入後にプレイできます。",
+      "你没有DLC，请购买后再试",
+      "你沒有DLC，請購買后再試"
+    ],
+    [
+      "msg_delete",
+      "Are you sure you want to delete the content?",
+      "정말로 삭제하시겠습니까?",
+      "本当に削除しますか？",
+      "您确定要删除此内容吗?",
+      "你確定要刪除此內容嗎?"
+    ],
+    [
+      "msg_edit",
+      "Are you sure you want to edit the content?",
+      "정말로 수정하시겠습니까?",
+      "本当に修正しますか？",
+      "你确定要更新此内容吗?",
+      "你確定要更新此內容嗎?"
+    ],
+    [
+      "eula1",
+      "1. The resources that are used in pbrff file(images, audio, etc.) should not have copyright issues.",
+      "1. 업로드하는 pbrff파일에 포함된 이미지, 오디오 등의 리소스는 저작권 상의 문제가 없어야합니다.",
+      "1. アップロードするpbrffファイルに含まれる写真、音源などは著作権上の問題があってはなりません。",
+      "1. pbrff 文件中使用的资源（图像、音频等）不应存在版权问题。",
+      "1. pbrff 文件中使用的資源（圖像、音頻等）不應存在版權問題。"
+    ],
+    [
+      "eula2",
+      "2. Especially If you don't use music on the \"Allowing Song List\"\n, it will be turned into \"private\".",
+      "2. 특히, 음악의 경우  \"허가 작곡가 목록\"에 없는 경우 발견 시 비공개 처리 됩니다.",
+      "2. 特に音源の場合、許可された作曲家のリストにない場合、非公開とされます。",
+      "2. 特别是如果你不使用“允许歌曲列表”中的音乐\n ，它将变成“私密”。",
+      "2. 特別是如果你不使用“允許歌曲列表”中的音樂\n ，它將變成“私密”。"
+    ],
+    [
+      "eula3",
+      "3. If an inappropriate levels are uploaded to the Steam Workshop, it will turn private or be deleted.",
+      "3. 창작마당에 부적절한 파일이 업로드 된 경우, 개발자 권한으로 미등록 또는 삭제 처리 할 수 있습니다.",
+      "3. ワークショップに不適切なファイルがアップロードされた場合、未公開や削除となります。",
+      "3. 如果不适当的关卡上传到Steam创意工坊，它将转为私密或被删除。",
+      "3. 如果不適當的關卡上傳到Steam創意工坊，它將轉為私密或被刪除。"
+    ],
+    [
+      "eula4",
+      "4. You should not extract or make programs that extract audio files included in pbrff files.",
+      "4. pbrff파일에 포함된 오디오 파일을 추출하는 행위, 혹은 추출하는 프로그램의 제작 및 배포는 금지됩니다. ",
+      "4. pbrffファイルに含まれた音源ファイルを抽出する行為、あるいは音源抽出ソフトなどの配布行為は禁じられます。",
+      "4. 你不应该提取或制作提取 pbrff 文件中包含的音频文件的程序。",
+      "4. 你不應該提取或製作提取 pbrff 文件中包含的音頻文件的程序。"
+    ],
+    [
+      "eula5",
+      "5. If you upload the levels to the Steam Workshop, you will be considered agreeing to provide your levels so that it can be used for the operation of the game. ",
+      "5. pbrff파일을 창작마당에 업로드 하는 경우, 해당 채보를 게임의 운영에 활용할 수 있도록 채보 제공에 동의 하는 것으로 간주합니다. ",
+      "5. pbrffファイルをワークショップにアップロードすることで、該当する譜面を運営の活用に提供することを同意するとみなします。",
+      "5.如果您将关卡上传至Steam创意工坊，即视为您同意提供您的关卡，以便用于游戏的运营。",
+      "5.如果您將關卡上傳至Steam創意工坊，即視為您同意提供您的關卡，以便用於遊戲的運營。"
+    ],
+    [
+      "msg_quit",
+      "Are you sure you want to quit the game?",
+      "게임을 종료하시겠습니까?",
+      "ゲームを終了しますか?",
+      "您确定要退出游戏吗？",
+      "您確定要退出遊戲嗎？"
+    ],
+    [
+      "msg_exit",
+      "Are you sure you want to exit the editor?",
+      "에디터를 종료하시겠습니까?",
+      "エディターを終了しますか?",
+      "您确定要退出编辑器吗？",
+      "您確定要退出編輯器嗎？"
+    ],
+    [
+      "msg_backup",
+      "Backup file exists. \nDo you want to open it?",
+      "백업 파일이 존재합니다. \n백업 파일을 가져오시겠습니까?",
+      "バックアップファイルが存在します。バックアップファイルを開きますか?",
+      "备份文件存在。\n 你想打开它吗？",
+      "備份文件存在。\n 你想打開它嗎？"
+    ],
+    [
+      "tooltip_recommend",
+      "Qurated levels by developer ",
+      "개발자에 의해 선별된 채보",
+      "開発者によって選別された譜面 ",
+      "开发者推荐关卡",
+      "開發者推薦關卡"
+    ],
+    [
+      "tooltip_confirm",
+      "Levels meets the minimum conditions",
+      "최소 조건을 만족하는 채보",
+      "最低条件が満たされた譜面",
+      "关卡满足的最低条件",
+      "關卡滿足的最低條件"
+    ],
+    [
+      "ugc_confirm",
+      "If you play unconfirmed level, We don't garantee it works normally.",
+      "confirmed 태그가 없는경우, 정상적인 플레이가 불가능할 수 있습니다.",
+      "confirmedタグがない場合、正常的なプレイができない場合があります。",
+      "如果您玩未经确认的关卡，我们不保证其正常工作。",
+      "如果您玩未經確認的關卡，我們不保證其正常工作。"
+    ],
+    [
+      "reduced",
+      "Reduced Effect",
+      "Reduced Effect",
+      "Reduced Effect",
+      "Reduced Effect",
+      "Reduced Effect"
+    ],
+    [
+      "thick",
+      "Thick note",
+      "Thick note",
+      "Thick note",
+      "Thick note",
+      "Thick note"
+    ],
+    [
+      "bloom",
+      "Bloom Effect",
+      "Bloom Effect",
+      "Bloom Effect",
+      "Bloom Effect",
+      "Bloom Effect"
+    ],
+    [
+      "practiceonly",
+      "Time skipping is only available in practice mode.",
+      "시간 이동은 연습모드에서만 사용할 수 있습니다.",
+      "Time skipping is only available in practice mode.",
+      "Time skipping is only available in practice mode.",
+      "Time skipping is only available in practice mode."
+    ],
+    [
+      "practice",
+      "Practice mode",
+      "Practice mode",
+      "Practice mode",
+      "Practice mode",
+      "Practice mode"
+    ],
+    [
+      "sfx",
+      "Sound Effect",
+      "효과음",
+      "Sound Effect",
+      "Sound Effect",
+      "Sound Effect"
+    ],
+    [
+      "extrapack",
+      "\"Extra Pack\" includes special patterns such as discarded patterns and gimmick patterns. \nBecause of this, normal play may not be possible.",
+      "Extra Pack은 폐기된 패턴, 기믹 패턴 등의 특수 패턴들을 모아놓는 팩입니다. 때문에 정상적인 플레이가 불가능할 수 있습니다.",
+      "Extra Packは廃棄譜面やギミックなどの特集譜面が集まったパックの故、正常なプレイができない可能性があります。",
+      "\"Extra Pack\" includes special patterns such as discarded patterns and gimmick patterns. \nBecause of this, normal play may not be possible.",
+      "\"Extra Pack\" includes special patterns such as discarded patterns and gimmick patterns. \nBecause of this, normal play may not be possible."
+    ],
+    [
+      "steamoff",
+      "You can't use editor when Steam is offline.",
+      "Steam이 오프라인 상태입니다.",
+      "You can't use editor when Steam is offline.",
+      "You can't use editor when Steam is offline.",
+      "You can't use editor when Steam is offline."
+    ],
+    [
+      "msg_jsonread",
+      "File is encrypted or broken.",
+      "파일이 암호화되었거나 깨졌습니다.",
+      "File is encrypted or broken.",
+      "File is encrypted or broken.",
+      "File is encrypted or broken."
+    ]
+  ]
+}

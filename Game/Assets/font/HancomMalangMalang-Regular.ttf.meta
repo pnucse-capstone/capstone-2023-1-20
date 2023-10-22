@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: eb6f5855ea84ec44eb220656b7418261
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hancom MalangMalang
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 88809f91eb3007945b9bbbea1e731356, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
